@@ -68,21 +68,21 @@ Features Implemented :-
 
 Steps to Run the Project Locally :- 
 
-1. Clone the Repository 
+1. Clone the Repository :- 
 git clone <your-repository-url>
 cd <project-folder>
 
-2. Install Dependencies
+2. Install Dependencies :- 
 npm install or yarn install
 
-3. Setup Environment Variables
+3. Setup Environment Variables :- 
 Create a .env file in the root directory and add:
 VITE_API_URL=https://dummyjson.com/users
 
-4. Start the Development Server
+4. Start the Development Server :- 
 npm run dev or yarn dev
 
-5. Open in Browser
+5. Open in Browser :- 
 http://localhost:5173
 
 6. Use following email and password :-
